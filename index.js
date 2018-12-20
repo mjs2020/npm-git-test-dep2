@@ -1,3 +1,3 @@
-const package = require('package');
+const pkg = require('./package');
 
-module.exports = package;
+module.exports = pkg;
